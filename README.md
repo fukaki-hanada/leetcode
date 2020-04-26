@@ -4,9 +4,15 @@
 This repository is for recording my leetcode exercises.
 
 ## Records summary
-| Section | Affiliates / Characteristics | Status | Last Updated |
-| ----- | ----- | ----- | ----- |
-| Array 101 | Introduction to Data Structure | **Currently working on** | 2020/04/26 01：16 (UTC+08) |
+| Section | Affiliates / Characteristics | Completed/Total | Last Updated | Status |
+| ----- | ----- | ----- | ----- | ----- |
+| Array 101 | Introduction to Data Structure | 6/17 | 2020/04/26 04:26 (UTC+08) | **Currently working on** |
 
 ## File structure
-The file structure will be updated later.
+```
+|---array101 
+|   // LeetCode Explore > Introduction to Data Structure > Array 101
+|
+|---README.md
+|   // Description file
+```
